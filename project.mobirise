@@ -6,7 +6,9 @@
       "name": "purity",
       "title": "PurityM",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#f7eeda"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -140,7 +142,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f7eeda",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -149,10 +151,10 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "Ideelle Unterstützung",
-          "caption1": "Formulierungen zu den ideellen Unterstützungsleistungen.&nbsp;Formulierungen zu den ideellen Unterstützungsleistungen.&nbsp;Formulierungen zu den ideellen Unterstützungsleistungen.&nbsp;<br>Formulierungen zu den ideellen Unterstützungsleistungen.&nbsp;Formulierungen zu den ideellen Unterstützungsleistungen.&nbsp;<br>Formulierungen zu den ideellen Unterstützungsleistungen.&nbsp;<br>Formulierungen zu den ideellen Unterstützungsleistungen.",
-          "title2": "Finanzielle Untertstützung",
-          "caption2": "Erläuterungen zu den finanziellen Unterstützungen.&nbsp;Erläuterungen zu den finanziellen Unterstützungen.&nbsp;<br>Erläuterungen zu den finanziellen Unterstützungen.&nbsp;Erläuterungen zu den finanziellen Unterstützungen.&nbsp;<br>Erläuterungen zu den finanziellen Unterstützungen.<br>Erläuterungen zu den finanziellen Unterstützungen.<br>Erläuterungen zu den finanziellen Unterstützungen.",
+          "title1": "Wir unterstützen ideell",
+          "caption1": "Formulierungen zu den ideellen Unterstützungsleistungen.&nbsp;Formulierungen zu den ideellen Unterstützungsleistungen.&nbsp;Formulierungen zu den ideellen Unterstützungsleistungen.&nbsp;<br><br>",
+          "title2": "Wir unterstützen finanziell",
+          "caption2": "Erläuterungen zu den finanziellen Unterstützungen.&nbsp;Erläuterungen zu den finanziellen Unterstützungen.&nbsp;<br>Erläuterungen zu den finanziellen Unterstützungen.&nbsp;",
           "title3": "Förderung der Bildung",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Veranstaltungen organisieren",
@@ -175,7 +177,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f7eeda",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -184,10 +186,10 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "Förderung der Bildung",
-          "caption1": "Schilderungen über geförderte Bildungsangebote.&nbsp;Schilderungen über geförderte Bildungsangebote.&nbsp;Schilderungen über geförderte Bildungsangebote.&nbsp;<br>Schilderungen über geförderte Bildungsangebote.&nbsp;Schilderungen über geförderte Bildungsangebote.Schilderungen über geförderte Bildungsangebote.Schilderungen über geförderte Bildungsangebote.",
-          "title2": "Veranstaltungen organisieren",
-          "caption2": "Welche Art von Veranstaltungen organisiert werden.&nbsp;Welche Art von Veranstaltungen organisiert werden.&nbsp;Welche Art von Veranstaltungen organisiert werden.&nbsp;Welche Art von Veranstaltungen organisiert werden.&nbsp;Welche Art von Veranstaltungen organisiert werden.&nbsp;Welche Art von Veranstaltungen organisiert werden.&nbsp;Welche Art von Veranstaltungen organisiert werden.",
+          "title1": "Wir fördern Bildung",
+          "caption1": "Schilderungen über geförderte Bildungsangebote.&nbsp;Schilderungen über geförderte Bildungsangebote.&nbsp;Schilderungen über geförderte Bildungsangebote.&nbsp;<br><br>",
+          "title2": "Wir organisieren Veranstaltungen",
+          "caption2": "Welche Art von Veranstaltungen organisiert werden.&nbsp;Welche Art von Veranstaltungen organisiert werden.&nbsp;Welche Art von Veranstaltungen organisiert werden.&nbsp;",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Websites",
@@ -205,10 +207,10 @@
             "showCaption": true,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1631x1080.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -259,7 +261,7 @@
           "title3": "Tagesfahrt",
           "caption3": "<b>20.Juni 2018</b> - Tagesfahrt zur <b>Landesgartenschau in Burg </b>bei Magdeburg und Petzow - anmeldepflichtig!<br><br><br>Platz für weitere Veranstaltungen<br><br><br>Platz für weitere Veranstaltungen<br>",
           "title4": "Empfang des Förderkreises",
-          "caption4": "<b>23. Juni 2018 </b>- Empfang des Förderkreises, Karl-Foerster-Pavillon, die Mitglieder des Vorstandes stehen Vereinsmitgliedern und interessierten Gästen für Fragen zur Verfügung<br><br><br>Platz für weitere Veranstaltungen<br>",
+          "caption4": "<b>23. Juni 2018 </b>- Empfang des Förderkreises, Karl-Foerster-Pavillon, die Mitglieder des Vorstandes stehen Vereinsmitgliedern und interessierten Gästen für Fragen zur Verfügung<br><br><br>Platz für weitere Veranstaltungen<br><br><br><br>Veranstaltungskalender &gt;",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -279,10 +281,10 @@
             "showCaption": true,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1625x1080.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
